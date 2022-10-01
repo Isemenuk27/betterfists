@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+	$basetexture "HUD/weapons/weapon_fists/selecticon"
+	"$vertexcolor" 		1
+	"$vertexalpha" 		1
+	"$nolod" 			1
+	$translucent 1
+}
